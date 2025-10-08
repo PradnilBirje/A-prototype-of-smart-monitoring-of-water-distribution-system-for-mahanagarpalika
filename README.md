@@ -1,4 +1,4 @@
-# A-prototype-of-smart-monitoring-of-water-distribution-system-for-mahanagarpalika
+# A prototype of smart monitoring of water distribution system for mahanagarpalika
 Developed a prototype for a smart water distribution monitoring system that automates the control of water valves remotely, streamlining water management for municipal operations. Utilizing IoT technology, this project enables the remote operation of water valves through software installed on mobile devices, reducing the need for manual labor to operate valve handles. By combining IoT capabilities with IT knowledge, we designed and implemented a system that allows authorized personnel to control water flow from a distance, saving time and manual effort.
 
 The project involved coding and integrating the software with hardware components to establish secure, real-time communication between the mobile device and water distribution valves. This solution provides an efficient, user-friendly interface that enhances operational efficiency for water distribution, supporting municipal goals for modernized and labor-saving infrastructure.
